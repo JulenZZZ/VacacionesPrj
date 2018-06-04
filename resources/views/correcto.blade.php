@@ -1,0 +1,1 @@
+El trabajador {{$nombre}} con el mes: {{$mes}} han sido introducidos en la base de datos!
